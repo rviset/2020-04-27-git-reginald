@@ -1,4 +1,4 @@
-# 2020-04-27-git
+# 2020-04-27: Git Lesson
 
 - init: create a git repository in current directory
     - you should only do this once in a repository (i.e., no nested git repos)
@@ -19,3 +19,4 @@
     - `git remote add origin <URL>` add a remote
 - `git push origin master : to push the master branch on our local computer to the remote named origin
 
+- editing lines in different places is okay. You might get a merge conflict if you edit the same location.
