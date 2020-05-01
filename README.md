@@ -1,5 +1,7 @@
 # 2020-04-27: Git Lesson
 
+## Notes for local
+
 - init: create a git repository in current directory
     - you should only do this once in a repository (i.e., no nested git repos)
 - status: tells you what is going on
@@ -14,6 +16,8 @@
     - `checkout <HASH>` : moves HEAD to that location
         `git checkout master` : go back to our original place
 - `HEAD`: place we're looking at right now on our computer
+
+## Notes for remote
 
 - remote: a place where the git repo is stored, e.g., GitHub
     - `git remote add origin <URL>` add a remote
